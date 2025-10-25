@@ -1,2 +1,2 @@
 # MY-Project
-this repo contains my all project.
+this repo contains my all project
